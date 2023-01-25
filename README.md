@@ -1,24 +1,7 @@
-_______________________________________________
-
-♡---------GROUPE 6---------------------♡
-
- 
-MEMBRES DU GROUPE:
-Tonde Souleymane(chef)
-Ouffouet Dexquis
-_____________________________
-
-*****IMPORTANT *********
-_____________________________
+Ce projet est un examen de python que j'ai eu à faire en prémière année de licence informatique option genie logiciel
+Le principe est de creer une applicaion tkinter capable de convertir un numéro ivoirien de 8chiffres à 10 chiffres en ajoutant le prefix réquis.
 
 Module Externe::: --PYGAME--
-_____________________________
-#ediiteur de code tester: IDLE, PYCHARM, VSCODE
-__________________________________________________________
-Pour des satisfaire nos désirs de  paramètre sonores 🔊🔉🔇
-nous avons du importer le Module PYGAME, 
-il vous est donc recommander pour
-le bon fonctionnement de l'application.
 Gardez le dossier """assets""" dans le dossier "SDK_TECH""
 car celui-ci contient tout les accessoires
 de l'application donc la data base.
